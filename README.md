@@ -1,5 +1,5 @@
 # crypto_price_notifier
-Application sends crypto prices to Telegram every 30 minute interval.
+Application sends crypto prices to Telegram group every 30 minutes.
 
 Supports the following market pairs (AUD):
   - BTC/AUD
